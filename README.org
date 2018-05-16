@@ -1,4 +1,4 @@
-#+TITLE: Predicting Usefulness of Yelp Reviews
+#+TITLE: Training a Model to Understand Bias In Yelp Review Utility
 #+DATE: April 7, 2018
 
 

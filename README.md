@@ -19,11 +19,11 @@ forest classifiers to achieve an accuracy of 95%, an accuracy of 99% was
 achieved here with a Linear SVM classifier.
 
 # Team Members
-  - Adele Chui\
-  University of Waterloo\
-  Department of Systems Design Engineering\
+  - Adele Chui  
+  University of Waterloo  
+  Department of Systems Design Engineering  
   aschui@edu.uwaterloo.ca
-  - Arumoy Shome\
-  University of Waterloo\
-  Department of Systems Design Engineering\
+  - Arumoy Shome  
+  University of Waterloo  
+  Department of Systems Design Engineering  
   ashome@edu.uwaterloo.ca

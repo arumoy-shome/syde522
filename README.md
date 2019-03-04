@@ -1,13 +1,5 @@
----
-date: 'April 7, 2018'
-title: Training a Model to Understand Bias In Yelp Review Utility
----
+# Understanding Bias in Yelp Reviews
 
-  Adele Chui                                 Arumoy Shome
-  ------------------------------------------ ------------------------------------------
-  Department of Systems Design Engineering   Department of Systems Design Engineering
-  University of Waterloo                     University of Waterloo
-  aschui\@edu.uwaterloo.ca                   ashome\@edu.uwaterloo.ca
 
 Following is a brief overview of the project, for more details the
 [report](report.pdf) can be consulted.
@@ -25,3 +17,13 @@ highlighting that users are biased by things outside of review text when
 labelling a review as useful. Additionally, while literature uses random
 forest classifiers to achieve an accuracy of 95%, an accuracy of 99% was
 achieved here with a Linear SVM classifier.
+
+# Team Members
+  - Adele Chui
+  University of Waterloo
+  Department of Systems Design Engineering
+  aschui@edu.uwaterloo.ca
+  - Arumoy Shome
+  University of Waterloo
+  Department of Systems Design Engineering
+  ashome@edu.uwaterloo.ca
